@@ -1,0 +1,2009 @@
+[
+  {
+    "State or territory": "Angola",
+    "Currency": "Angolan kwanza",
+    "Symbol": "Kz",
+    "ISO code": "AOA",
+    "Fractional unit": "C\\u00eantimo",
+    "Banknote width": 172,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Anguilla",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Antigua and Barbuda",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Argentina",
+    "Currency": "Argentine peso",
+    "Symbol": "$",
+    "ISO code": "ARS",
+    "Fractional unit": "Centavo",
+    "Banknote width": 155,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Armenia",
+    "Currency": "Armenian dram",
+    "Symbol": "",
+    "ISO code": "AMD",
+    "Fractional unit": "Luma",
+    "Banknote width": 122,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Aruba",
+    "Currency": "Aruban florin",
+    "Symbol": "\\u0192",
+    "ISO code": "AWG",
+    "Fractional unit": "Cent",
+    "Banknote width": 147,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Ascension Island",
+    "Currency": "Saint Helena pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "SHP",
+    "Fractional unit": "Penny",
+    "Banknote width": 146,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Australia",
+    "Currency": "Australian dollar",
+    "Symbol": "$",
+    "ISO code": "AUD",
+    "Fractional unit": "Cent",
+    "Banknote width": 151,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Austria",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Azerbaijan",
+    "Currency": "Azerbaijani manat",
+    "Symbol": "",
+    "ISO code": "AZN",
+    "Fractional unit": "Q\\u0259pik",
+    "Banknote width": 125,
+    "Banknote height": 63
+  },
+  {
+    "State or territory": "Bahamas, The",
+    "Currency": "Bahamian dollar",
+    "Symbol": "$",
+    "ISO code": "BSD",
+    "Fractional unit": "Cent",
+    "Banknote width": 156,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Bahrain",
+    "Currency": "Bahraini dinar",
+    "Symbol": ".\\u062f.\\u0628",
+    "ISO code": "BHD",
+    "Fractional unit": "Fils",
+    "Banknote width": 154,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Bangladesh",
+    "Currency": "Bangladeshi taka",
+    "Symbol": "\\u09f3",
+    "ISO code": "BDT",
+    "Fractional unit": "Paisa",
+    "Banknote width": 100,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Barbados",
+    "Currency": "Barbadian dollar",
+    "Symbol": "$",
+    "ISO code": "BBD",
+    "Fractional unit": "Cent",
+    "Banknote width": 150,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Belarus",
+    "Currency": "Belarusian ruble",
+    "Symbol": "Br",
+    "ISO code": "BYR",
+    "Fractional unit": "Kapyeyka",
+    "Banknote width": 150,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Belgium",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Belize",
+    "Currency": "Belize dollar",
+    "Symbol": "$",
+    "ISO code": "BZD",
+    "Fractional unit": "Cent",
+    "Banknote width": 140,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Benin",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Bermuda",
+    "Currency": "Bermudian dollar",
+    "Symbol": "$",
+    "ISO code": "BMD",
+    "Fractional unit": "Cent",
+    "Banknote width": 140,
+    "Banknote height": 68
+  },
+  {
+    "State or territory": "Bhutan",
+    "Currency": "Bhutanese ngultrum",
+    "Symbol": "Nu.",
+    "ISO code": "BTN",
+    "Fractional unit": "Chetrum",
+    "Banknote width": 113,
+    "Banknote height": 61
+  },
+  {
+    "State or territory": "Bolivia",
+    "Currency": "Bolivian boliviano",
+    "Symbol": "Bs.",
+    "ISO code": "BOB",
+    "Fractional unit": "Centavo",
+    "Banknote width": 171,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Bonaire",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Bosnia and Herzegovina",
+    "Currency": "Bosnia and Herzegovina convertible mark",
+    "Symbol": "KM or \\u041a\\u041c",
+    "ISO code": "BAM",
+    "Fractional unit": "Fening",
+    "Banknote width": 156,
+    "Banknote height": 76
+  },
+  {
+    "State or territory": "Botswana",
+    "Currency": "Botswana pula",
+    "Symbol": "P",
+    "ISO code": "BWP",
+    "Fractional unit": "Thebe",
+    "Banknote width": 132,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Brazil",
+    "Currency": "Brazilian real",
+    "Symbol": "R$",
+    "ISO code": "BRL",
+    "Fractional unit": "Centavo",
+    "Banknote width": 140,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "British Indian Ocean Territory",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Brunei",
+    "Currency": "Brunei dollar",
+    "Symbol": "$",
+    "ISO code": "BND",
+    "Fractional unit": "Sen",
+    "Banknote width": 149,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Bulgaria",
+    "Currency": "Bulgarian lev",
+    "Symbol": "\\u043b\\u0432",
+    "ISO code": "BGN",
+    "Fractional unit": "Stotinka",
+    "Banknote width": 112,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Burkina Faso",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Burma",
+    "Currency": "Burmese kyat",
+    "Symbol": "Ks",
+    "ISO code": "MMK",
+    "Fractional unit": "Pya",
+    "Banknote width": 109,
+    "Banknote height": 63
+  },
+  {
+    "State or territory": "Burundi",
+    "Currency": "Burundian franc",
+    "Symbol": "Fr",
+    "ISO code": "BIF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Cambodia",
+    "Currency": "Cambodian riel",
+    "Symbol": "\\u17db",
+    "ISO code": "KHR",
+    "Fractional unit": "Sen",
+    "Banknote width": 170,
+    "Banknote height": 75
+  },
+  {
+    "State or territory": "Cameroon",
+    "Currency": "Central African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XAF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Canada",
+    "Currency": "Canadian dollar",
+    "Symbol": "$",
+    "ISO code": "CAD",
+    "Fractional unit": "Cent",
+    "Banknote width": 152.4,
+    "Banknote height": 69.85
+  },
+  {
+    "State or territory": "Cape Verde",
+    "Currency": "Cape Verdean escudo",
+    "Symbol": "Esc or $",
+    "ISO code": "CVE",
+    "Fractional unit": "Centavo",
+    "Banknote width": 121,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Cayman Islands",
+    "Currency": "Cayman Islands dollar",
+    "Symbol": "$",
+    "ISO code": "KYD",
+    "Fractional unit": "Cent",
+    "Banknote width": 156,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Central African Republic",
+    "Currency": "Central African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XAF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Chad",
+    "Currency": "Central African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XAF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Chile",
+    "Currency": "Chilean peso",
+    "Symbol": "$",
+    "ISO code": "CLP",
+    "Fractional unit": "Centavo",
+    "Banknote width": 145,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "China, People's Republic of",
+    "Currency": "Chinese yuan",
+    "Symbol": "\\u00a5 or \\u5143",
+    "ISO code": "CNY",
+    "Fractional unit": "Fen",
+    "Banknote width": 155,
+    "Banknote height": 77
+  },
+  {
+    "State or territory": "Cocos (Keeling) Islands",
+    "Currency": "Australian dollar",
+    "Symbol": "$",
+    "ISO code": "AUD",
+    "Fractional unit": "Cent",
+    "Banknote width": 151,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Colombia",
+    "Currency": "Colombian peso",
+    "Symbol": "$",
+    "ISO code": "COP",
+    "Fractional unit": "Centavo",
+    "Banknote width": 130,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Comoros",
+    "Currency": "Comorian franc",
+    "Symbol": "Fr",
+    "ISO code": "KMF",
+    "Fractional unit": "Centime",
+    "Banknote width": 150,
+    "Banknote height": 85
+  },
+  {
+    "State or territory": "Congo, Republic of the",
+    "Currency": "Central African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XAF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Cook Islands",
+    "Currency": "New Zealand dollar",
+    "Symbol": "$",
+    "ISO code": "NZD",
+    "Fractional unit": "Cent",
+    "Banknote width": 155,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Costa Rica",
+    "Currency": "Costa Rican col\\u00f3n",
+    "Symbol": "\\u20a1",
+    "ISO code": "CRC",
+    "Fractional unit": "C\\u00e9ntimo",
+    "Banknote width": 125,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "C\\u00f4te d'Ivoire",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Croatia",
+    "Currency": "Croatian kuna",
+    "Symbol": "kn",
+    "ISO code": "HRK",
+    "Fractional unit": "Lipa",
+    "Banknote width": 122,
+    "Banknote height": 61
+  },
+  {
+    "State or territory": "Cuba",
+    "Currency": "Cuban convertible peso",
+    "Symbol": "$",
+    "ISO code": "CUC",
+    "Fractional unit": "Centavo",
+    "Banknote width": 150,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Cura\\u00e7ao",
+    "Currency": "Netherlands Antillean guilder",
+    "Symbol": "\\u0192",
+    "ISO code": "ANG",
+    "Fractional unit": "Cent",
+    "Banknote width": 147,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Cyprus",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Czech Republic",
+    "Currency": "Czech koruna",
+    "Symbol": "K\\u010d",
+    "ISO code": "CZK",
+    "Fractional unit": "Hal\\u00e9\\u0159",
+    "Banknote width": 133,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Denmark",
+    "Currency": "Danish krone",
+    "Symbol": "kr",
+    "ISO code": "DKK",
+    "Fractional unit": "\\u00d8re",
+    "Banknote width": 125,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Djibouti",
+    "Currency": "Djiboutian franc",
+    "Symbol": "Fr",
+    "ISO code": "DJF",
+    "Fractional unit": "Centime",
+    "Banknote width": 168,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "Dominica",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Dominican Republic",
+    "Currency": "Dominican peso",
+    "Symbol": "$",
+    "ISO code": "DOP",
+    "Fractional unit": "Centavo",
+    "Banknote width": 156,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "East Timor",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Ecuador",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Egypt",
+    "Currency": "Egyptian pound",
+    "Symbol": "\\u00a3 or \\u062c.\\u0645",
+    "ISO code": "EGP",
+    "Fractional unit": "Piastre",
+    "Banknote width": 166,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "El Salvador",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Equatorial Guinea",
+    "Currency": "Central African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XAF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Eritrea",
+    "Currency": "Eritrean nakfa",
+    "Symbol": "Nfk",
+    "ISO code": "ERN",
+    "Fractional unit": "Cent",
+    "Banknote width": 140,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Estonia",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Ethiopia",
+    "Currency": "Ethiopian birr",
+    "Symbol": "Br",
+    "ISO code": "ETB",
+    "Fractional unit": "Santim",
+    "Banknote width": 193,
+    "Banknote height": 103
+  },
+  {
+    "State or territory": "Falkland Islands",
+    "Currency": "Falkland Islands pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "FKP",
+    "Fractional unit": "Penny",
+    "Banknote width": 146,
+    "Banknote height": 92
+  },
+  {
+    "State or territory": "Faroe Islands",
+    "Currency": "Danish krone",
+    "Symbol": "kr",
+    "ISO code": "DKK",
+    "Fractional unit": "\\u00d8re",
+    "Banknote width": 125,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Fiji",
+    "Currency": "Fijian dollar",
+    "Symbol": "$",
+    "ISO code": "FJD",
+    "Fractional unit": "Cent",
+    "Banknote width": 131,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Finland",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "France",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "French Polynesia",
+    "Currency": "CFP franc",
+    "Symbol": "Fr",
+    "ISO code": "XPF",
+    "Fractional unit": "Centime",
+    "Banknote width": 137,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Gabon",
+    "Currency": "Central African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XAF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Gambia, The",
+    "Currency": "Gambian dalasi",
+    "Symbol": "D",
+    "ISO code": "GMD",
+    "Fractional unit": "Butut",
+    "Banknote width": 157,
+    "Banknote height": 81
+  },
+  {
+    "State or territory": "Georgia",
+    "Currency": "Georgian lari",
+    "Symbol": "\\u10da",
+    "ISO code": "GEL",
+    "Fractional unit": "Tetri",
+    "Banknote width": 115,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Germany",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Ghana",
+    "Currency": "Ghana cedi",
+    "Symbol": "\\u20b5",
+    "ISO code": "GHS",
+    "Fractional unit": "Pesewa",
+    "Banknote width": 163,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Gibraltar",
+    "Currency": "Gibraltar pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "GIP",
+    "Fractional unit": "Penny",
+    "Banknote width": 146,
+    "Banknote height": 78
+  },
+  {
+    "State or territory": "Greece",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Grenada",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Guatemala",
+    "Currency": "Guatemalan quetzal",
+    "Symbol": "Q",
+    "ISO code": "GTQ",
+    "Fractional unit": "Centavo",
+    "Banknote width": 156,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Guernsey",
+    "Currency": "British pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "GBP",
+    "Fractional unit": "Penny",
+    "Banknote width": 149,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "Guinea",
+    "Currency": "Guinean franc",
+    "Symbol": "Fr",
+    "ISO code": "GNF",
+    "Fractional unit": "Centime",
+    "Banknote width": 130,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Guinea-Bissau",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Guyana",
+    "Currency": "Guyanese dollar",
+    "Symbol": "$",
+    "ISO code": "GYD",
+    "Fractional unit": "Cent",
+    "Banknote width": 156,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Haiti",
+    "Currency": "Haitian gourde",
+    "Symbol": "G",
+    "ISO code": "HTG",
+    "Fractional unit": "Centime",
+    "Banknote width": 130,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Honduras",
+    "Currency": "Honduran lempira",
+    "Symbol": "L",
+    "ISO code": "HNL",
+    "Fractional unit": "Centavo",
+    "Banknote width": 156,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Hong Kong",
+    "Currency": "Hong Kong dollar",
+    "Symbol": "$",
+    "ISO code": "HKD",
+    "Fractional unit": "Cent",
+    "Banknote width": 158,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Hungary",
+    "Currency": "Hungarian forint",
+    "Symbol": "Ft",
+    "ISO code": "HUF",
+    "Fractional unit": "Fill\\u00e9r",
+    "Banknote width": 154,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Iceland",
+    "Currency": "Icelandic kr\\u00f3na",
+    "Symbol": "kr",
+    "ISO code": "ISK",
+    "Fractional unit": "Eyrir",
+    "Banknote width": 145,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "India",
+    "Currency": "Indian rupee",
+    "Symbol": "\\u20b9",
+    "ISO code": "INR",
+    "Fractional unit": "Paisa",
+    "Banknote width": 150,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Indonesia",
+    "Currency": "Indonesian rupiah",
+    "Symbol": "Rp",
+    "ISO code": "IDR",
+    "Fractional unit": "Sen",
+    "Banknote width": 143,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Iran",
+    "Currency": "Iranian rial",
+    "Symbol": "\\ufdfc",
+    "ISO code": "IRR",
+    "Fractional unit": "Dinar",
+    "Banknote width": 130,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Iraq",
+    "Currency": "Iraqi dinar",
+    "Symbol": "\\u0639.\\u062f",
+    "ISO code": "IQD",
+    "Fractional unit": "Fils",
+    "Banknote width": 177,
+    "Banknote height": 78
+  },
+  {
+    "State or territory": "Ireland",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Isle of Man",
+    "Currency": "British pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "GBP",
+    "Fractional unit": "Penny",
+    "Banknote width": 149,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "Israel",
+    "Currency": "Israeli new shekel",
+    "Symbol": "\\u20aa",
+    "ISO code": "ILS",
+    "Fractional unit": "Agora",
+    "Banknote width": 138,
+    "Banknote height": 71
+  },
+  {
+    "State or territory": "Italy",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Jamaica",
+    "Currency": "Jamaican dollar",
+    "Symbol": "$",
+    "ISO code": "JMD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 68
+  },
+  {
+    "State or territory": "Japan",
+    "Currency": "Japanese yen",
+    "Symbol": "\\u00a5",
+    "ISO code": "JPY",
+    "Fractional unit": "Sen",
+    "Banknote width": 150,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Jersey",
+    "Currency": "British pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "GBP",
+    "Fractional unit": "Penny",
+    "Banknote width": 149,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "Jordan",
+    "Currency": "Jordanian dinar",
+    "Symbol": "\\u062f.\\u0627",
+    "ISO code": "JOD",
+    "Fractional unit": "Piastre",
+    "Banknote width": 133,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Kazakhstan",
+    "Currency": "Kazakhstani tenge",
+    "Symbol": "",
+    "ISO code": "KZT",
+    "Fractional unit": "T\\u00ef\\u0131n",
+    "Banknote width": 134,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Kenya",
+    "Currency": "Kenyan shilling",
+    "Symbol": "Sh",
+    "ISO code": "KES",
+    "Fractional unit": "Cent",
+    "Banknote width": 138,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Kiribati",
+    "Currency": "Australian dollar",
+    "Symbol": "$",
+    "ISO code": "AUD",
+    "Fractional unit": "Cent",
+    "Banknote width": 151,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Korea, North",
+    "Currency": "North Korean won",
+    "Symbol": "\\u20a9",
+    "ISO code": "KPW",
+    "Fractional unit": "Chon",
+    "Banknote width": 145,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Korea, South",
+    "Currency": "South Korean won",
+    "Symbol": "\\u20a9",
+    "ISO code": "KRW",
+    "Fractional unit": "Jeon",
+    "Banknote width": 138,
+    "Banknote height": 68
+  },
+  {
+    "State or territory": "Kosovo",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Kuwait",
+    "Currency": "Kuwaiti dinar",
+    "Symbol": "\\u062f.\\u0643",
+    "ISO code": "KWD",
+    "Fractional unit": "Fils",
+    "Banknote width": 128,
+    "Banknote height": 77
+  },
+  {
+    "State or territory": "Kyrgyzstan",
+    "Currency": "Kyrgyzstani som",
+    "Symbol": "\\u043b\\u0432",
+    "ISO code": "KGS",
+    "Fractional unit": "Tyiyn",
+    "Banknote width": 135,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Laos",
+    "Currency": "Lao kip",
+    "Symbol": "\\u20ad",
+    "ISO code": "LAK",
+    "Fractional unit": "Att",
+    "Banknote width": 144,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Latvia",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Lebanon",
+    "Currency": "Lebanese pound",
+    "Symbol": "\\u0644.\\u0644",
+    "ISO code": "LBP",
+    "Fractional unit": "Piastre",
+    "Banknote width": 115,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Lesotho",
+    "Currency": "Lesotho loti",
+    "Symbol": "L",
+    "ISO code": "LSL",
+    "Fractional unit": "Sente",
+    "Banknote width": 132,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Liberia",
+    "Currency": "Liberian dollar",
+    "Symbol": "$",
+    "ISO code": "LRD",
+    "Fractional unit": "Cent",
+    "Banknote width": 133,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Libya",
+    "Currency": "Libyan dinar",
+    "Symbol": "\\u0644.\\u062f",
+    "ISO code": "LYD",
+    "Fractional unit": "Dirham",
+    "Banknote width": 182,
+    "Banknote height": 90
+  },
+  {
+    "State or territory": "Liechtenstein",
+    "Currency": "Swiss franc",
+    "Symbol": "Fr",
+    "ISO code": "CHF",
+    "Fractional unit": "Rappen",
+    "Banknote width": 126,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Lithuania",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Luxembourg",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Macau",
+    "Currency": "Macanese pataca",
+    "Symbol": "P",
+    "ISO code": "MOP",
+    "Fractional unit": "Avo",
+    "Banknote width": 148,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Macedonia, Republic of",
+    "Currency": "Macedonian denar",
+    "Symbol": "\\u0434\\u0435\\u043d",
+    "ISO code": "MKD",
+    "Fractional unit": "Deni",
+    "Banknote width": 140,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Madagascar",
+    "Currency": "Malagasy ariary",
+    "Symbol": "Ar",
+    "ISO code": "MGA",
+    "Fractional unit": "Iraimbilanja",
+    "Banknote width": 120,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Malawi",
+    "Currency": "Malawian kwacha",
+    "Symbol": "MK",
+    "ISO code": "MWK",
+    "Fractional unit": "Tambala",
+    "Banknote width": 126,
+    "Banknote height": 63
+  },
+  {
+    "State or territory": "Malaysia",
+    "Currency": "Malaysian ringgit",
+    "Symbol": "RM",
+    "ISO code": "MYR",
+    "Fractional unit": "Sen",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Maldives",
+    "Currency": "Maldivian rufiyaa",
+    "Symbol": ".\\u0783",
+    "ISO code": "MVR",
+    "Fractional unit": "Laari",
+    "Banknote width": 150,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Mali",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Malta",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Marshall Islands",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Mauritania",
+    "Currency": "Mauritanian ouguiya",
+    "Symbol": "UM",
+    "ISO code": "MRO",
+    "Fractional unit": "Khoums",
+    "Banknote width": 134,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Mauritius",
+    "Currency": "Mauritian rupee",
+    "Symbol": "\\u20a8",
+    "ISO code": "MUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 135,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Mexico",
+    "Currency": "Mexican peso",
+    "Symbol": "$",
+    "ISO code": "MXN",
+    "Fractional unit": "Centavo",
+    "Banknote width": 134,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Moldova",
+    "Currency": "Moldovan leu",
+    "Symbol": "L",
+    "ISO code": "MDL",
+    "Fractional unit": "Ban",
+    "Banknote width": 114,
+    "Banknote height": 58
+  },
+  {
+    "State or territory": "Monaco",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Mongolia",
+    "Currency": "Mongolian t\\u00f6gr\\u00f6g",
+    "Symbol": "\\u20ae",
+    "ISO code": "MNT",
+    "Fractional unit": "M\\u00f6ng\\u00f6",
+    "Banknote width": 131,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Montenegro",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Montserrat",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Morocco",
+    "Currency": "Moroccan dirham",
+    "Symbol": "\\u062f.\\u0645.",
+    "ISO code": "MAD",
+    "Fractional unit": "Centime",
+    "Banknote width": 147,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Mozambique",
+    "Currency": "Mozambican metical",
+    "Symbol": "MT",
+    "ISO code": "MZN",
+    "Fractional unit": "Centavo",
+    "Banknote width": 151,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Nagorno-Karabakh Republic",
+    "Currency": "Armenian dram",
+    "Symbol": "",
+    "ISO code": "AMD",
+    "Fractional unit": "Luma",
+    "Banknote width": 125,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Namibia",
+    "Currency": "Namibian dollar",
+    "Symbol": "$",
+    "ISO code": "NAD",
+    "Fractional unit": "Cent",
+    "Banknote width": 129,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Nauru",
+    "Currency": "Australian dollar",
+    "Symbol": "$",
+    "ISO code": "AUD",
+    "Fractional unit": "Cent",
+    "Banknote width": 151,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Nepal",
+    "Currency": "Nepalese rupee",
+    "Symbol": "\\u20a8",
+    "ISO code": "NPR",
+    "Fractional unit": "Paisa",
+    "Banknote width": 120,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Netherlands",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "New Caledonia",
+    "Currency": "CFP franc",
+    "Symbol": "Fr",
+    "ISO code": "XPF",
+    "Fractional unit": "Centime",
+    "Banknote width": 137,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "New Zealand",
+    "Currency": "New Zealand dollar",
+    "Symbol": "$",
+    "ISO code": "NZD",
+    "Fractional unit": "Cent",
+    "Banknote width": 155,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Nicaragua",
+    "Currency": "Nicaraguan c\\u00f3rdoba",
+    "Symbol": "C$",
+    "ISO code": "NIO",
+    "Fractional unit": "Centavo",
+    "Banknote width": 131,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Niger",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Nigeria",
+    "Currency": "Nigerian naira",
+    "Symbol": "\\u20a6",
+    "ISO code": "NGN",
+    "Fractional unit": "Kobo",
+    "Banknote width": 130,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Niue",
+    "Currency": "New Zealand dollar",
+    "Symbol": "$",
+    "ISO code": "NZD",
+    "Fractional unit": "Cent",
+    "Banknote width": 155,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Northern Cyprus",
+    "Currency": "Turkish lira",
+    "Symbol": "",
+    "ISO code": "TRY",
+    "Fractional unit": "Kuru\\u015f",
+    "Banknote width": 136,
+    "Banknote height": 64
+  },
+  {
+    "State or territory": "Norway",
+    "Currency": "Norwegian krone",
+    "Symbol": "kr",
+    "ISO code": "NOK",
+    "Fractional unit": "\\u00d8re",
+    "Banknote width": 128,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Oman",
+    "Currency": "Omani rial",
+    "Symbol": "\\u0631.\\u0639.",
+    "ISO code": "OMR",
+    "Fractional unit": "Baisa",
+    "Banknote width": 121,
+    "Banknote height": 64
+  },
+  {
+    "State or territory": "Pakistan",
+    "Currency": "Pakistani rupee",
+    "Symbol": "\\u20a8",
+    "ISO code": "PKR",
+    "Fractional unit": "Paisa",
+    "Banknote width": 115,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Palestine",
+    "Currency": "Israeli new shekel",
+    "Symbol": "\\u20aa",
+    "ISO code": "ILS",
+    "Fractional unit": "Agora",
+    "Banknote width": 138,
+    "Banknote height": 71
+  },
+  {
+    "State or territory": "Papua New Guinea",
+    "Currency": "Papua New Guinean kina",
+    "Symbol": "K",
+    "ISO code": "PGK",
+    "Fractional unit": "Toea",
+    "Banknote width": 130,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Paraguay",
+    "Currency": "Paraguayan guaran\\u00ed",
+    "Symbol": "\\u20b2",
+    "ISO code": "PYG",
+    "Fractional unit": "C\\u00e9ntimo",
+    "Banknote width": 156,
+    "Banknote height": 68
+  },
+  {
+    "State or territory": "Peru",
+    "Currency": "Peruvian nuevo sol",
+    "Symbol": "S\\/.",
+    "ISO code": "PEN",
+    "Fractional unit": "C\\u00e9ntimo",
+    "Banknote width": 140,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Philippines",
+    "Currency": "Philippine peso",
+    "Symbol": "\\u20b1",
+    "ISO code": "PHP",
+    "Fractional unit": "Centavo",
+    "Banknote width": 160,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Pitcairn Islands",
+    "Currency": "New Zealand dollar",
+    "Symbol": "$",
+    "ISO code": "NZD",
+    "Fractional unit": "Cent",
+    "Banknote width": 155,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Poland",
+    "Currency": "Polish z\\u0142oty",
+    "Symbol": "z\\u0142",
+    "ISO code": "PLN",
+    "Fractional unit": "Grosz",
+    "Banknote width": 120,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Portugal",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Qatar",
+    "Currency": "Qatari riyal",
+    "Symbol": "\\u0631.\\u0642",
+    "ISO code": "QAR",
+    "Fractional unit": "Dirham",
+    "Banknote width": 141,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Romania",
+    "Currency": "Romanian leu",
+    "Symbol": "lei",
+    "ISO code": "RON",
+    "Fractional unit": "Ban",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Russia",
+    "Currency": "Russian ruble",
+    "Symbol": "\\u20bd",
+    "ISO code": "RUB",
+    "Fractional unit": "Kopek",
+    "Banknote width": 137,
+    "Banknote height": 61
+  },
+  {
+    "State or territory": "Rwanda",
+    "Currency": "Rwandan franc",
+    "Symbol": "Fr",
+    "ISO code": "RWF",
+    "Fractional unit": "Centime",
+    "Banknote width": 140,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Saba",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Sahrawi Republic",
+    "Currency": "Algerian dinar",
+    "Symbol": "\\u062f.\\u062c",
+    "ISO code": "DZD",
+    "Fractional unit": "Santeem",
+    "Banknote width": 130,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Saint Helena",
+    "Currency": "Saint Helena pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "SHP",
+    "Fractional unit": "Penny",
+    "Banknote width": 146,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Saint Kitts and Nevis",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Saint Lucia",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Saint Vincent and the Grenadines",
+    "Currency": "East Caribbean dollar",
+    "Symbol": "$",
+    "ISO code": "XCD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Samoa",
+    "Currency": "Samoan t\\u0101l\\u0101",
+    "Symbol": "T",
+    "ISO code": "WST",
+    "Fractional unit": "Sene",
+    "Banknote width": 139,
+    "Banknote height": 71
+  },
+  {
+    "State or territory": "San Marino",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Saudi Arabia",
+    "Currency": "Saudi riyal",
+    "Symbol": "\\u0631.\\u0633",
+    "ISO code": "SAR",
+    "Fractional unit": "Halala",
+    "Banknote width": 145,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Senegal",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Serbia",
+    "Currency": "Serbian dinar",
+    "Symbol": "\\u0434\\u0438\\u043d. or din.",
+    "ISO code": "RSD",
+    "Fractional unit": "Para",
+    "Banknote width": 159,
+    "Banknote height": 76
+  },
+  {
+    "State or territory": "Seychelles",
+    "Currency": "Seychellois rupee",
+    "Symbol": "\\u20a8",
+    "ISO code": "SCR",
+    "Fractional unit": "Cent",
+    "Banknote width": 150,
+    "Banknote height": 75
+  },
+  {
+    "State or territory": "Sierra Leone",
+    "Currency": "Sierra Leonean leone",
+    "Symbol": "Le",
+    "ISO code": "SLL",
+    "Fractional unit": "Cent",
+    "Banknote width": 135,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Singapore",
+    "Currency": "Brunei dollar",
+    "Symbol": "$",
+    "ISO code": "BND",
+    "Fractional unit": "Sen",
+    "Banknote width": 149,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Sint Eustatius",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Sint Maarten",
+    "Currency": "Netherlands Antillean guilder",
+    "Symbol": "\\u0192",
+    "ISO code": "ANG",
+    "Fractional unit": "Cent",
+    "Banknote width": 147,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Slovakia",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Slovenia",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Solomon Islands",
+    "Currency": "Solomon Islands dollar",
+    "Symbol": "$",
+    "ISO code": "SBD",
+    "Fractional unit": "Cent",
+    "Banknote width": 140,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Somalia",
+    "Currency": "Somali shilling",
+    "Symbol": "Sh",
+    "ISO code": "SOS",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 53
+  },
+  {
+    "State or territory": "Somaliland",
+    "Currency": "Somaliland shilling",
+    "Symbol": "Sh",
+    "ISO code": "(none)",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 53
+  },
+  {
+    "State or territory": "South Africa",
+    "Currency": "South African rand",
+    "Symbol": "R",
+    "ISO code": "ZAR",
+    "Fractional unit": "Cent",
+    "Banknote width": 152,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "South Georgia and the South Sandwich Islands",
+    "Currency": "British pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "GBP",
+    "Fractional unit": "Penny",
+    "Banknote width": 149,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "South Ossetia",
+    "Currency": "Russian ruble",
+    "Symbol": "\\u20bd",
+    "ISO code": "RUB",
+    "Fractional unit": "Kopek",
+    "Banknote width": 137,
+    "Banknote height": 61
+  },
+  {
+    "State or territory": "Spain",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Sri Lanka",
+    "Currency": "Sri Lankan rupee",
+    "Symbol": "Rs or \\u0dbb\\u0dd4",
+    "ISO code": "LKR",
+    "Fractional unit": "Cent",
+    "Banknote width": 128,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Sudan",
+    "Currency": "Sudanese pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "SDG",
+    "Fractional unit": "Piastre",
+    "Banknote width": 161,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "Suriname",
+    "Currency": "Surinamese dollar",
+    "Symbol": "$",
+    "ISO code": "SRD",
+    "Fractional unit": "Cent",
+    "Banknote width": 140,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Swaziland",
+    "Currency": "Swazi lilangeni",
+    "Symbol": "L",
+    "ISO code": "SZL",
+    "Fractional unit": "Cent",
+    "Banknote width": 150,
+    "Banknote height": 68
+  },
+  {
+    "State or territory": "Sweden",
+    "Currency": "Swedish krona",
+    "Symbol": "kr",
+    "ISO code": "SEK",
+    "Fractional unit": "\\u00d6re",
+    "Banknote width": 120,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Switzerland",
+    "Currency": "Swiss franc",
+    "Symbol": "Fr",
+    "ISO code": "CHF",
+    "Fractional unit": "Rappen",
+    "Banknote width": 126,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Syria",
+    "Currency": "Syrian pound",
+    "Symbol": "\\u00a3 or \\u0644.\\u0633",
+    "ISO code": "SYP",
+    "Fractional unit": "Piastre",
+    "Banknote width": 130,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Taiwan",
+    "Currency": "New Taiwan dollar",
+    "Symbol": "$",
+    "ISO code": "TWD",
+    "Fractional unit": "Cent",
+    "Banknote width": 145,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Tajikistan",
+    "Currency": "Tajikistani somoni",
+    "Symbol": "\\u0405\\u041c",
+    "ISO code": "TJS",
+    "Fractional unit": "Diram",
+    "Banknote width": 162,
+    "Banknote height": 71
+  },
+  {
+    "State or territory": "Tanzania",
+    "Currency": "Tanzanian shilling",
+    "Symbol": "Sh",
+    "ISO code": "TZS",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Thailand",
+    "Currency": "Thai baht",
+    "Symbol": "\\u0e3f",
+    "ISO code": "THB",
+    "Fractional unit": "Satang",
+    "Banknote width": 138,
+    "Banknote height": 72
+  },
+  {
+    "State or territory": "Togo",
+    "Currency": "West African CFA franc",
+    "Symbol": "Fr",
+    "ISO code": "XOF",
+    "Fractional unit": "Centime",
+    "Banknote width": 125,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Tonga",
+    "Currency": "Tongan pa\\u02bbanga",
+    "Symbol": "T$",
+    "ISO code": "TOP",
+    "Fractional unit": "Seniti",
+    "Banknote width": 150,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Transnistria",
+    "Currency": "Transnistrian ruble",
+    "Symbol": "\\u0440.",
+    "ISO code": "PRB",
+    "Fractional unit": "Kopek",
+    "Banknote width": 129,
+    "Banknote height": 56
+  },
+  {
+    "State or territory": "Trinidad and Tobago",
+    "Currency": "Trinidad and Tobago dollar",
+    "Symbol": "$",
+    "ISO code": "TTD",
+    "Fractional unit": "Cent",
+    "Banknote width": 154,
+    "Banknote height": 66
+  },
+  {
+    "State or territory": "Tristan da Cunha",
+    "Currency": "Saint Helena pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "SHP",
+    "Fractional unit": "Penny",
+    "Banknote width": 146,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "Tunisia",
+    "Currency": "Tunisian dinar",
+    "Symbol": "\\u062f.\\u062a",
+    "ISO code": "TND",
+    "Fractional unit": "Millime",
+    "Banknote width": 137,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Turkey",
+    "Currency": "Turkish lira",
+    "Symbol": "",
+    "ISO code": "TRY",
+    "Fractional unit": "Kuru\\u015f",
+    "Banknote width": 136,
+    "Banknote height": 64
+  },
+  {
+    "State or territory": "Turkmenistan",
+    "Currency": "Turkmenistan manat",
+    "Symbol": "m",
+    "ISO code": "TMT",
+    "Fractional unit": "Tennesi",
+    "Banknote width": 120,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Turks and Caicos Islands",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Tuvalu",
+    "Currency": "Australian dollar",
+    "Symbol": "$",
+    "ISO code": "AUD",
+    "Fractional unit": "Cent",
+    "Banknote width": 151,
+    "Banknote height": 65
+  },
+  {
+    "State or territory": "Uganda",
+    "Currency": "Ugandan shilling",
+    "Symbol": "Sh",
+    "ISO code": "UGX",
+    "Fractional unit": "Cent",
+    "Banknote width": 130,
+    "Banknote height": 64
+  },
+  {
+    "State or territory": "Ukraine",
+    "Currency": "Ukrainian hryvnia",
+    "Symbol": "\\u20b4",
+    "ISO code": "UAH",
+    "Fractional unit": "Kopiyka",
+    "Banknote width": 118,
+    "Banknote height": 63
+  },
+  {
+    "State or territory": "United Arab Emirates",
+    "Currency": "United Arab Emirates dirham",
+    "Symbol": "\\u062f.\\u0625",
+    "ISO code": "AED",
+    "Fractional unit": "Fils",
+    "Banknote width": 145,
+    "Banknote height": 67
+  },
+  {
+    "State or territory": "United Kingdom",
+    "Currency": "British pound",
+    "Symbol": "\\u00a3",
+    "ISO code": "GBP",
+    "Fractional unit": "Penny",
+    "Banknote width": 149,
+    "Banknote height": 80
+  },
+  {
+    "State or territory": "United States",
+    "Currency": "United States dollar",
+    "Symbol": "$",
+    "ISO code": "USD",
+    "Fractional unit": "Cent",
+    "Banknote width": 187,
+    "Banknote height": 79
+  },
+  {
+    "State or territory": "Uruguay",
+    "Currency": "Uruguayan peso",
+    "Symbol": "$",
+    "ISO code": "UYU",
+    "Fractional unit": "Cent\\u00e9simo",
+    "Banknote width": 159,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Uzbekistan",
+    "Currency": "Uzbekistani som",
+    "Symbol": "\\u043b\\u0432",
+    "ISO code": "UZS",
+    "Fractional unit": "Tiyin",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Vatican City",
+    "Currency": "Euro",
+    "Symbol": "\\u20ac",
+    "ISO code": "EUR",
+    "Fractional unit": "Cent",
+    "Banknote width": 120,
+    "Banknote height": 62
+  },
+  {
+    "State or territory": "Venezuela",
+    "Currency": "Venezuelan bol\\u00edvar",
+    "Symbol": "Bs F",
+    "ISO code": "VEF",
+    "Fractional unit": "C\\u00e9ntimo",
+    "Banknote width": 156,
+    "Banknote height": 69
+  },
+  {
+    "State or territory": "Vietnam",
+    "Currency": "Vietnamese \\u0111\\u1ed3ng",
+    "Symbol": "\\u20ab",
+    "ISO code": "VND",
+    "Fractional unit": "H\\u00e0o",
+    "Banknote width": 132,
+    "Banknote height": 60
+  },
+  {
+    "State or territory": "Wallis and Futuna",
+    "Currency": "CFP franc",
+    "Symbol": "Fr",
+    "ISO code": "XPF", 
+    "Fractional unit": "Centime",
+    "Banknote width": 137,
+    "Banknote height": 74
+  },
+  {
+    "State or territory": "Yemen",
+    "Currency": "Yemeni rial",
+    "Symbol": "\\ufdfc",
+    "ISO code": "YER",
+    "Fractional unit": "Fils",
+    "Banknote width": 150,
+    "Banknote height": 75
+  },
+  {
+    "State or territory": "Zambia",
+    "Currency": "Zambian kwacha",
+    "Symbol": "ZK",
+    "ISO code": "ZMW",
+    "Fractional unit": "Ngwee",
+    "Banknote width": 170,
+    "Banknote height": 70
+  },
+  {
+    "State or territory": "Zimbabwe",
+    "Currency": "Botswana pula",
+    "Symbol": "P",
+    "ISO code": "BWP",
+    "Fractional unit": "Thebe",
+    "Banknote width": 132,
+    "Banknote height": 66
+  }
+]
