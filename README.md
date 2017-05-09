@@ -1,5 +1,4 @@
-### Circulating Currencies Data and Sizes
-
+# Circulating Currencies Data and Sizes
 
 This GitHub page is about a list of circulating currencies combined with the heights and widths of the banknotes of the currencies. You can find the list of circulating currencies on this Wikipedia page: 
 
