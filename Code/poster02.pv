@@ -1,0 +1,22 @@
+size(3000, 2000)
+background('white')
+
+import json
+
+with open('circulating_currencies.json') as infile: 
+    currencies = json.load(infile)
+
+
+centerX = 1000
+centerY = 1000
+
+
+for currency in currencies:
+    barwidth = currency ['Banknote width']
+    barheight = currency ['Banknote height']
+    nofill()
+    strokewidth(1)
+    stroke('black')
+    x = centerX - (barwidth/2)
+    y = centerY - (barheight/2)
+    rect(x, y, barwidth, barheight)

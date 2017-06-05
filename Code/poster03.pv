@@ -1,0 +1,19 @@
+size(3000, 2000)
+background('white')
+
+import json
+
+with open('circulating_currencies.json') as infile: 
+    currencies = json.load(infile)
+
+y = 100
+x = 100
+
+currencycolor = color(RGB, random(['blue','green','pink','yellow']), .6, .9)
+
+for currency in currencies:
+    barwidth = currency ['Banknote width']
+    barheight = currency ['Banknote height']
+    fill(currencycolor)
+    rect(500, 500, barwidth, barheight)
+

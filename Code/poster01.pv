@@ -1,0 +1,21 @@
+size(1000, 17000)
+background(1)
+
+import json
+
+with open('circulating_currencies.json') as infile: 
+    currencies = json.load(infile)
+print len(currencies)
+print currencies
+
+y = 0
+for currency in currencies:
+    y = y + 75
+    barwidth = currency ['Banknote width']/2
+    barheight = currency ['Banknote height']/2
+    nofill()
+    stroke('black')
+    rect(10, y, barwidth, barheight)
+    fill('black')
+    #font("Helvetica", "regular",10)
+    #text(currency['Currency'], 10, y + 50)
