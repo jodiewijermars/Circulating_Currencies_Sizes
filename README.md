@@ -22,8 +22,8 @@ Go to https://github.com/ArtezGDA/Course-Material/blob/master/OpenSourceDataVisu
 
 ### List of used currencies
 
-Angolan kwanza
-East Caribbean dollar
+- Angolan kwanza
+- East Caribbean dollar
 East Caribbean dollar
 Argentine peso
 Armenian dram
