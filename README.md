@@ -20,7 +20,7 @@ This project is based on a Digital Media assignment at ArtEZ Arnhem.
 Go to https://github.com/ArtezGDA/Course-Material/blob/master/OpenSourceDataVisualization.md to view the original assignment.
 
 
-### List of used currencies
+## List of used currencies
 
 - Angolan kwanza
 - East Caribbean dollar
