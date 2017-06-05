@@ -19,3 +19,7 @@ The currencies I used are:
 - Croatian kuna
 - West african franc
 
+# Introducing the Wakenucd 1
+
+![alt tag](https://github.com/jodiewijermars/Circulating_Currencies_Sizes/blob/master/Wakenucd%201/wakenucd_banknote_1.jpg)
+
