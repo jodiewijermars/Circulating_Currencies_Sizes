@@ -23,3 +23,6 @@ The currencies I used are:
 
 ![alt tag](https://github.com/jodiewijermars/Circulating_Currencies_Sizes/blob/master/Wakenucd%201/wakenucd_banknote_1.jpg)
 
+## Introduction video Wakenucd 1
+
+![alt tag] (https://vimeo.com/220451316)
