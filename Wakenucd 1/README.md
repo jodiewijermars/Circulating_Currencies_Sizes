@@ -25,4 +25,4 @@ The currencies I used are:
 
 ## Introduction video Wakenucd 1
 
-![alt tag] (https://vimeo.com/220451316)
+https://vimeo.com/220451316
